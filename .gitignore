@@ -1,0 +1,9 @@
+*.DS_Store
+*Thumbs.db
+*.sass-cache*
+*~imageoptim*
+
+idea
+.DS_Store
+node_modules
+local.json
